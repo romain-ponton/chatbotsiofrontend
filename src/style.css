@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@import 'primeicons/primeicons.css';
+
+pre {
+    padding: 1rem;
+}
+code {
+    border-radius: 10px;
+    padding: 2rem 2rem !important;
+}
+
+.chat-bubble {
+    padding: 1rem;
+}
+
+
+.chat-bubble ol, .chat-bubble ul {
+    padding-left: 1rem;
+}
+.chat-bubble li {
+    margin: 0.5rem;
+    list-style: disc;
+}
+
